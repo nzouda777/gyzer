@@ -1,0 +1,8 @@
+{
+  "name": "gyzer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "caff9931"
+}
